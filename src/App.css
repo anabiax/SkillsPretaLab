@@ -9,7 +9,6 @@
   position: relative;
   text-align: center;
   /* background: radial-gradient(circle at 10% 20%, rgb(64, 84, 178) 0%, rgb(219, 2, 234) 90%);*/
-
   background: linear-gradient(60deg, rgba(84,58, 183,1) 0%, rgba(0,172,193,1) 100%); 
   color: #FFF;
 }

@@ -1,10 +1,4 @@
 
-/*
-import Header from './components/Header/Header'
-import Card from './components/Card/Card'
-import Body from './components/Body/Body'
-import Icones from './components/Icones/Icones'
-import Footer from './components/Footer/Footer' */
 import './App.css'
 import React from 'react'
 
@@ -30,7 +24,7 @@ function App() {
         </div>
 
         <div className="sobre">
-          <img src="src/components/Bio/fotoanab.jpeg" alt="meu gif" />
+          <img src="src/components/Bio/fotoanab.jpeg" alt="foto do arquivo pessoal de AnaB Santos" />
           <div className="sobre-texto">
             <h1><span>Prazer, AnaB</span></h1>
             <p>Entusiasta das relações entre raça, gênero e tecnologia. <br></br>Dev Full Stack em formação pela PretaLab e Generation Brasil.</p>
@@ -93,21 +87,3 @@ function App() {
 
 
 export default App
-
-/* <div>
-      <Header />
-      <Card />
-      <hr></hr>
-
-      <Body />
-      <hr></hr>
-      <Icones />
-      <hr></hr>
-
-      <Footer /> 
-      
-    </div>
-   https://c.tenor.com/mWInyGBJCy8AAAAC/jane-the-virgin-jane-villanueva.gif jane brava cabelo
-https://c.tenor.com/OeDp-_oKzmEAAAAC/jane-the-virgin-jane-villanueva.gif teta saindo leite
-https://c.tenor.com/Y_KoPNaER5sAAAAC/jane-the-virgin-jane-villanueva.gif cabeça explodindo
-    */
