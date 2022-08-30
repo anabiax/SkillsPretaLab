@@ -30,6 +30,8 @@ function App() {
             <p>Entusiasta das relações entre raça, gênero e tecnologia. <br></br>Dev Full Stack em formação pela PretaLab e Generation Brasil.</p>
             <hr></hr>
             <p>A noveleira mexicana que habita em mim saúda a que habita em você: dramastê 🙏🏼</p>
+            
+
           </div>
           
         </div>
@@ -81,7 +83,6 @@ function App() {
         </div>
     </div>
     
-
   )
 }
 
