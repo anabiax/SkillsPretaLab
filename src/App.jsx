@@ -32,17 +32,20 @@ function App() {
         <div className="sobre">
           <img src="src/components/Bio/fotoanab.jpeg" alt="meu gif" />
           <div className="sobre-texto">
-            <h1 >Prazer, AnaB</h1>
-            <p>Entusiasta das relações entre raça, gênero e tecnologia. Dev Full Stack em formação pela PretaLab e Generation Brasil.</p>
+            <h1><span>Prazer, AnaB</span></h1>
+            <p>Entusiasta das relações entre raça, gênero e tecnologia. <br></br>Dev Full Stack em formação pela PretaLab e Generation Brasil.</p>
+            <hr></hr>
             <p>A noveleira mexicana que habita em mim saúda a que habita em você: dramastê 🙏🏼</p>
           </div>
           
         </div>
-          <hr></hr>
+          
         <div >
-          <h2 className="habilidades">Pérolas de aprendizagem na PretaLab</h2>
-          <p>Devo confessar que grande parte da minha empolgação se deve ao fato de ter tido a oportunidade de conhecer instrutoras maravilhosas. Serei eternamente grata pela formação e pelo afeto transmitido durante as aulas.</p>
+          <div className="section">
+            <p>Devo confessar que grande parte da minha empolgação se deve ao fato de ter tido a oportunidade de conhecer instrutoras e facilitadoras maravilhosas.<br></br> Serei eternamente grata pela formação e pelo afeto transmitido durante as aulas.</p>
+          </div>
 
+          <h2 className="habilidades">Pérolas de aprendizagem na PretaLab</h2>
 
           <div className="secao-container">
             <div className="secao">
@@ -70,7 +73,7 @@ function App() {
           
         </div>
 
-        <footer>
+        <footer className="section">
           <div class="contatos">
               <a href="https://www.linkedin.com/in/anabsantoss/"><i class="devicon-linkedin-plain" target="_blank"></i></a>
               <a href="https://github.com/anabiax"><i class="devicon-github-original" target="_blank"></i></a>
