@@ -24,6 +24,7 @@ npm run dev (rodar no navegador)
 
 ![Captura de tela de 2022-08-31 10-36-32](https://user-images.githubusercontent.com/105956403/187691979-af827cfe-b8d1-42e5-a49d-7125ab2532b7.png)
 ![Captura de tela de 2022-08-31 10-37-09](https://user-images.githubusercontent.com/105956403/187692004-09fd8305-9aba-4b53-a291-b4ef9b92f5ba.png)
+![Captura de tela de 2022-08-31 10-39-55](https://user-images.githubusercontent.com/105956403/187692426-14803724-798d-4868-92ad-c265bf99bb0a.png)
 
 
 ## Status:
