@@ -10,10 +10,18 @@ Primeiro projeto desenvolvido utilizando a biblioteca ReactJS no Ciclo Formativo
 
 
 ## Biblioteca:
-
 #### 
 
 <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
+
+## Comandos:
+####
+npm create vite@latest nome-do-app --template react
+cd nomedapasta
+npm install (baixar as dependências)
+npm run dev (rodar no navegador)
+
 
 ## Status:
 
