@@ -16,10 +16,10 @@ Primeiro projeto desenvolvido utilizando a biblioteca ReactJS no Ciclo Formativo
 
 
 ## Comandos:
-####
-npm create vite@latest nome-do-app --template react
-cd nomedapasta
-npm install (baixar as dependências)
+#### 
+npm create vite@latest nome-do-app --template react   <br>
+cd nomedapasta   <br>
+npm install (baixar as dependências) <br>
 npm run dev (rodar no navegador)
 
 
